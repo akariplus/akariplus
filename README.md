@@ -1,4 +1,4 @@
-![KEKW](https://c.tenor.com/CmUMr97aNWYAAAAd/kekw.gif)
+![cat](https://acegif.com/wp-content/gif/funny-cat-2020-9.gif)
 
 
 <!--
