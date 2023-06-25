@@ -1,4 +1,6 @@
-[center]<img height="256" width="256" src="akaLogo.png"/>[/center]
+<div style="text-align: center;">
+<img height="256" width="256" src="akaLogo.png"/>
+</div>
 
 <h1 align="center">Hi there! 👋</h1><br>
 <h2 align="center">I'm <u>Akari</u> <i>(she/they)</i> ━ nice to meet you! 😄</h2><br>
