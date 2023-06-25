@@ -1,18 +1,13 @@
-![cat](ezgif.com-gif-maker.gif)
-# cat.
+<img align="center" src="akaLogo.png"/>
 
-<!--
-### Hi there 👋
-**akaridotwork/akaridotwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there! 👋</h1><br>
+<h2 align="center">I'm **Akari** _(she/they)_ ━ nice to meet you! 😄</h1><br>
+<h3 align="center">I'm a Unity & Unreal Engine Gameplay Developer, Game Development Student & a Music Artist.</p><br><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">You can find my portfolio over at ✨[**akari.zip**](https://akari.zip/)✨</p>  
+<p align="center">You can find my music over at ✨[**beforethefa.me**](https://beforethefa.me)✨</p><br><br>  
+
+
+<p align="center">🔭 I’m currently working on a **Foodtruck Game 🚚** in **Unreal Engine 5.1.1**</p>  
+<p align="center">🌱 I’m currently learning **C++⌨️** & **Unreal Engine🖥️**</p>  
