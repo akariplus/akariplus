@@ -1,8 +1,8 @@
-<img align="center" src="akaLogo.png"/>
+<img align="center" height="256" width="256" src="akaLogo.png"/>
 
 <h1 align="center">Hi there! 👋</h1><br>
-<h2 align="center">I'm **Akari** _(she/they)_ ━ nice to meet you! 😄</h1><br>
-<h3 align="center">I'm a Unity & Unreal Engine Gameplay Developer, Game Development Student & a Music Artist.</p><br><br>
+<h2 align="center">I'm <b>Akari</b> <i>(she/they)</i> ━ nice to meet you! 😄</h2><br>
+<h3 align="center">I'm a <b>Unity & Unreal Engine</b> Gameplay Developer, <b>Game Development Student</b> & a <b>Music Artist</b>.</h3><br><br>
 
 
 <p align="center">You can find my portfolio over at ✨[**akari.zip**](https://akari.zip/)✨</p>  
