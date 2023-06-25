@@ -1,5 +1,5 @@
 <center>
-<img src="akaLogo.png" style="display: block; margin-left: auto;  max-width: 50VW;margin-right: auto;">
+<img src="akaLogo.png" style="display: block; margin-left: auto;  width: 50VW; max-widht: 256px; margin-right: auto;">
 
 
 # Hi there! 👋
