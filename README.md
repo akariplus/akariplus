@@ -10,12 +10,16 @@
 
 ### I'm a Unity & Unreal Engine Gameplay Developer, Game Development Student & a Music Artist.
 
-You can find my portfolio over at ✨ https://akari.zip ✨
+📖 You can find my portfolio over at ✨ https://imakari.dev/ ✨
 
-You can find my music over at ✨ https://beforethefa.me ✨
+🎵 You can find my music over at ✨ https://beforethefa.me/ ✨
 
-🔭 I’m currently working on a **Foodtruck Game 🚚** in **Unreal Engine 5.1.1**
+🔭 I’m currently working on a little **RPG Game 🐻🍯** in **Unreal Engine 5.2.1**
 
 🌱 I’m currently learning **C++⌨️** & **Unreal Engine🖥️**
+
+📂 I am working on starting an Indie Game Studio with some friends over at ✨ https://github.com/dotzipgames || https://dotzip.games/ ✨
+
+
 
 </center>
